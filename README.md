@@ -20,6 +20,7 @@ mysql, mysql2, dotenv, express, sequelize
 The app is used to test backend development.
 
 # Screenshots and Walkthrough
+![alt text](https://github.com/xvirix/e-commerce_backend/blob/main/Screen%20Shot%202021-05-09%20at%2012.05.50%20AM.png)
 https://youtu.be/v0_1cgD1yY4
 
 
